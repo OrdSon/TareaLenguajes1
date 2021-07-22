@@ -27,7 +27,5 @@ para que entre los dos
 no haya telón
 ni abismos
  
-mi estrategia es
-en cambio
-más profunda y más
-simple
+MODIFICACION DESDE GITHUB
+QUE CREARA CONFLICTO A LA HORA DE HACER EL MERGE
